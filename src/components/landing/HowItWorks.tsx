@@ -1,21 +1,21 @@
 import { motion } from "framer-motion";
-import { ShoppingCart, Share2, Wallet } from "lucide-react";
+import { UserPlus, Share2, Wallet } from "lucide-react";
 
 const steps = [
   {
-    icon: ShoppingCart,
-    title: "Buy a Product",
-    description: "Choose from our curated digital products starting at just ₹199.",
+    icon: UserPlus,
+    title: "Sign Up for Free",
+    description: "Register on Swishh and get your unique referral code — no purchase needed.",
   },
   {
     icon: Share2,
-    title: "Share Your Link",
-    description: "Get a unique referral code and share with your network — anyone can join.",
+    title: "Refer Clients",
+    description: "Share your referral link with anyone who needs digital products or business services.",
   },
   {
     icon: Wallet,
     title: "Earn Commissions",
-    description: "Earn 10% on every product sale and up to ₹2,000 on service referrals.",
+    description: "When they buy a product or sign up for a service, you earn — up to ₹2,000 per referral.",
   },
 ];
 

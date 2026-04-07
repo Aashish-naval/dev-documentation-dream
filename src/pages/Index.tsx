@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import HeroSection from "@/components/landing/HeroSection";
 import ProductsPreview from "@/components/landing/ProductsPreview";
 import ServicesPreview from "@/components/landing/ServicesPreview";
-import HowItWorks from "@/components/landing/HowItWorks";
+
 import ReferralHighlight from "@/components/landing/ReferralHighlight";
 import Testimonials from "@/components/landing/Testimonials";
 import CTASection from "@/components/landing/CTASection";
@@ -14,7 +14,7 @@ const Index = () => {
       <Navbar />
       <HeroSection />
       <ProductsPreview />
-      <HowItWorks />
+      
       <ServicesPreview />
       <ReferralHighlight />
       <Testimonials />

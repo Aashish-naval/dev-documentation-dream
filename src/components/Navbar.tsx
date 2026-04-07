@@ -11,6 +11,7 @@ const Navbar = () => {
     { to: "/", label: "Home" },
     { to: "/products", label: "Products" },
     { to: "/services", label: "Services" },
+    { to: "/refer-and-earn", label: "Refer & Earn" },
   ];
 
   return (

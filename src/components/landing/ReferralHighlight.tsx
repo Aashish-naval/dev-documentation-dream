@@ -22,14 +22,14 @@ const ReferralHighlight = () => {
               Earn ₹1,000 by referring<br className="hidden md:block" /> just 1 client
             </h2>
             <p className="mt-4 text-primary-foreground/80 text-lg max-w-lg mx-auto">
-              10 referrals = ₹10,000. Simple digital income — start with zero experience.
+              No investment needed. Just refer clients to Swishh and earn commissions on every sale.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link
-                to="/products"
+                to="/refer-and-earn"
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-primary-foreground text-primary font-medium text-sm hover:opacity-90 transition-opacity"
               >
-                Start Earning
+                Learn How It Works
                 <ArrowRight size={16} />
               </Link>
             </div>
